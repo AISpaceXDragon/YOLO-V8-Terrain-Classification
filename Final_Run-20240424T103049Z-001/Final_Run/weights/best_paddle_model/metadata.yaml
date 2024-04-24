@@ -1,0 +1,16 @@
+description: Ultralytics YOLOv8n-cls model trained on /content/Data Main
+author: Ultralytics
+license: AGPL-3.0 https://ultralytics.com/license
+date: '2024-02-13T16:38:16.938074'
+version: 8.1.12
+stride: 1
+task: classify
+batch: 1
+imgsz:
+- 256
+- 256
+names:
+  0: Grassy
+  1: Marshy
+  2: Rocky
+  3: Sandy
